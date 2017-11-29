@@ -1,5 +1,7 @@
 ﻿//FingerprintSegmentation
 //AOI 
+// 26 october 2017
+// Svetlana Kuksova
 
 #include "stdafx.h"
 #include "FingerprintSegmentation.h"
