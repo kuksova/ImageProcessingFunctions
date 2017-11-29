@@ -1,4 +1,6 @@
-
+//FingerprintSegmentation
+//AOI 
+// 26 october 2017
 typedef unsigned char       BYTE;
 
 typedef struct
